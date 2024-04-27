@@ -1,4 +1,5 @@
 # Chat Commandor
+![cx](https://github.com/Ag3nt47/The-commandor/assets/65457219/c1365636-5296-41d4-8d66-3df12dbc46e4)
 
 ## Overview
 Chat Commandor is a simple command-line tool designed to interactively assist users with executing bash commands. It utilizes the Bard API to generate bash scripting commands based on user input.
